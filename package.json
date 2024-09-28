@@ -1,0 +1,30 @@
+{
+  "name": "wdio-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio run wdio.conf.js --spec .js",
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "author": "Parv Khanna QA Automation Test Engineer",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/register": "^7.22.15",
+    "@wdio/allure-reporter": "^8.40.3",
+    "@wdio/browser-runner": "^9.0.7",
+    "@wdio/cli": "^8.24.6",
+    "@wdio/junit-reporter": "^9.1.1",
+    "@wdio/local-runner": "^8.24.6",
+    "@wdio/mocha-framework": "^8.24.6",
+    "@wdio/spec-reporter": "^8.24.2",
+    "allure-commandline": "^2.30.0",
+    "wdio-wait-for": "^3.0.9"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "webdriverio": "^9.0.7"
+  }
+}

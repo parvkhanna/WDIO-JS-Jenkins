@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2290","Validate Drop down","","Sat Sep 28 19:25:12 IST 2024","passed","Sat Sep 28 19:25:14 IST 2024","","Tests to validate different actions with WDIO","",""
+"","10397","Validate the context click","","Sat Sep 28 19:25:01 IST 2024","passed","Sat Sep 28 19:25:12 IST 2024","","Tests to validate different actions with WDIO","",""
+"","11424","Validate Drag and Drop","","Sat Sep 28 19:25:01 IST 2024","passed","Sat Sep 28 19:25:13 IST 2024","","Demo Tests","",""
+"","21212","Validate Checkboxes","","Sat Sep 28 19:25:13 IST 2024","passed","Sat Sep 28 19:25:34 IST 2024","","Demo Tests","",""
+"","20020","Validate the JS Alert","","Sat Sep 28 19:25:17 IST 2024","passed","Sat Sep 28 19:25:37 IST 2024","","Verify the functionality of alerts","",""
+"","6","Validate the JS Confirm","","Sat Sep 28 19:25:36 IST 2024","passed","Sat Sep 28 19:25:36 IST 2024","","Verify the functionality of alerts","",""
